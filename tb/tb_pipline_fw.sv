@@ -1,4 +1,3 @@
-//`include "D:/BKU/CTMT/2011919_Pipelined_Processor/Struct.sv"
 `timescale 1ns/1ps
 
 module tb_fw_pipe;

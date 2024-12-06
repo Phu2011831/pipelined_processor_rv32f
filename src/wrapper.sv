@@ -1,6 +1,6 @@
 /*This module is used for connect pins to DE2-FPGA-Kit*/ // WRAPPER
 
-module wrapper_2011919_pipelined_processsor
+module wrapper
 (
   input  wire  CLOCK_50,
   input  wire [17:0] SW,

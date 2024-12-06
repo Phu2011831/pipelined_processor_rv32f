@@ -1,5 +1,3 @@
-//`include "D:/BKU/CTMT/2011919_Pipelined_Processor/ALU.sv"  
-
 module multipliers (
   input  logic [31:0] operand_a, operand_b,
   output logic [63:0] P

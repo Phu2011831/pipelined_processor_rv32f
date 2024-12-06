@@ -1,4 +1,3 @@
-//`include "D:/BKU/CTMT/2011919_Pipelined_Processor/Struct.sv"
 `timescale 1ns/1ps
 
 module tb_apply;
@@ -29,7 +28,7 @@ module tb_apply;
   wire [6:0] pc_debug;
 
   // Instantiate the singlecycle module
-  wrapper_2011919_pipelined_processsor dut
+  wrapper dut
 (
   .CLOCK_50(clk_i),
   .SW(io_sw_i),

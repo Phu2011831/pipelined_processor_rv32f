@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-`include "D:/BKU/CTMT/2011919_Pipelined_Processor/Parameter.sv"
+`include "Parameter.sv"
 module Imm_gen (
   input  logic [31:7] instr_i,
   input  logic [ 2:0] type_i,

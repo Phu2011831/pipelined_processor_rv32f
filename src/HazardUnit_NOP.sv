@@ -1,4 +1,4 @@
-`include "D:/BKU/CTMT/2011919_Pipelined_Processor/Parameter.sv"
+`include "Parameter.sv"
 import StructPkg::*;
 /////////////////////////////////////////////////////////////////////
 // Module: Hazard-unit Nopping
